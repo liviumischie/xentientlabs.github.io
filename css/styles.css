@@ -26,8 +26,7 @@
             inset: 0;
             border-radius: 6px;
             padding: 2px;
-            /* Simplified gradient: Indigo to Pink */
-            background: linear-gradient(135deg, #6366f1 0%, #ec4899 100%);
+            background: linear-gradient(120deg, #083dff 0%, #c904fd 50%, #083dff 100%);
             mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
             -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
             -webkit-mask-composite: xor;
